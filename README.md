@@ -22,9 +22,9 @@ Check out the live demo: [Change-background-Color](https://jolly-maamoul-588ae0.
 ## How to Use
 
 1. **Clone the repository:**
-   
 -git clone [https://github.com/abdulrahmans0414/Change-bg-Color.git]
-3. **Open `index.html` in your web browser:**
+   
+2. **Open `index.html` in your web browser:**
 - Click the "Change Background Color" button to experience the color transformation.
 
 ## Developer
