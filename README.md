@@ -2,9 +2,9 @@
 
 Simple interactive web application allowing users to dynamically change the webpage background color.
 
-## Preview
+## Deployment
 
-![Change Background Color](https://jolly-maamoul-588ae0.netlify.app) 
+Check out the live demo: [Change-background-Color](https://jolly-maamoul-588ae0.netlify.app)
 
 ## How It Works
 
