@@ -4,7 +4,7 @@ Simple interactive web application allowing users to dynamically change the webp
 
 ## Preview
 
-![Change Background Color](https://jolly-maamoul-588ae0.netlify.app/) 
+[Change Background Color](https://jolly-maamoul-588ae0.netlify.app) 
 
 ## How It Works
 
